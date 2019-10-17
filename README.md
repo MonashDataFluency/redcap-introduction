@@ -1,3 +1,4 @@
+![REDCap](https://redcap.cdms.org.au/redcap_v8.10.15/Resources/images/redcap-logo-large.png "REDCap")
 # Introduction to REDCap Training
 
 *Course Level:* Foundational
